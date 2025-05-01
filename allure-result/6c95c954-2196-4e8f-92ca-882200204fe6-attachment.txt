@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_delete_booking.py:24 ########### test_006_delete_booking: test execution started ###########
+[32mINFO    [0m root:test_delete_booking.py:46 ########### test_006_delete_booking: test execution completed ###########

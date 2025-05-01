@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_get_specific_booking.py:28 ########### test_003_get_specific_booking_by_id: test execution started ###########
+[32mINFO    [0m root:test_get_specific_booking.py:42 ########### test_003_get_specific_booking_by_id: test execution completed ###########

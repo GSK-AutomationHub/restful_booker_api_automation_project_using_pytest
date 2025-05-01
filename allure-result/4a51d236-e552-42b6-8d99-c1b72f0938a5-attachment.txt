@@ -1,0 +1,10 @@
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:21 ########### TC-test_004_create_booking: test execution started ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:23 ########### new booking creation ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:31 ########### getting the booking details ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:37 ########### running create booking assertions ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:51 ########### updating the booking details ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:57 ########### getting the booking details post updating ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:63 ########### running update booking assertions ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:74 ########### deleting the booking ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:79 ########### running delete booking assertions ###########
+[32mINFO    [0m root:test_end_to_end_booking_flow.py:91 ########### TC-test_end_to_end_booking_flow: test execution started: test execution completed ###########

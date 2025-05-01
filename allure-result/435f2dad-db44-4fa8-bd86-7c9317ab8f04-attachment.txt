@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_update_booking.py:28 ########### test_005_update_booking: test execution started ###########
+[32mINFO    [0m root:test_update_booking.py:54 ########### test_005_update_booking: test execution completed ###########

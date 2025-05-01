@@ -1,0 +1,22 @@
+05/01/2025 10:23:04 PM INFO ########### test_001_booker_api_health_check: test execution started ###########
+05/01/2025 10:23:05 PM INFO ########### test_001_booker_api_health_check: test execution completed ###########
+05/01/2025 10:23:05 PM INFO ########### test_002_get_all_bookings: test execution started ###########
+05/01/2025 10:23:05 PM INFO ########### test_002_get_all_bookings: test execution completed ###########
+05/01/2025 10:23:05 PM INFO ########### test_003_get_specific_booking_by_id: test execution started ###########
+05/01/2025 10:23:07 PM INFO ########### test_003_get_specific_booking_by_id: test execution completed ###########
+05/01/2025 10:23:07 PM INFO ########### test_004_create_booking: test execution started ###########
+05/01/2025 10:23:09 PM INFO ########### test_004_create_booking: test execution completed ###########
+05/01/2025 10:23:10 PM INFO ########### test_005_update_booking: test execution started ###########
+05/01/2025 10:23:12 PM INFO ########### test_005_update_booking: test execution completed ###########
+05/01/2025 10:23:13 PM INFO ########### test_006_delete_booking: test execution started ###########
+05/01/2025 10:23:15 PM INFO ########### test_006_delete_booking: test execution completed ###########
+05/01/2025 10:23:19 PM INFO ########### TC-test_004_create_booking: test execution started ###########
+05/01/2025 10:23:19 PM INFO ########### new booking creation ###########
+05/01/2025 10:23:20 PM INFO ########### getting the booking details ###########
+05/01/2025 10:23:21 PM INFO ########### running create booking assertions ###########
+05/01/2025 10:23:21 PM INFO ########### updating the booking details ###########
+05/01/2025 10:23:21 PM INFO ########### getting the booking details post updating ###########
+05/01/2025 10:23:22 PM INFO ########### running update booking assertions ###########
+05/01/2025 10:23:22 PM INFO ########### deleting the booking ###########
+05/01/2025 10:23:23 PM INFO ########### running delete booking assertions ###########
+05/01/2025 10:23:24 PM INFO ########### TC-test_end_to_end_booking_flow: test execution started: test execution completed ###########
