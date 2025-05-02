@@ -15,9 +15,9 @@ class PropReader:
 
 
     @staticmethod
-    def read_env_file():
+    def read_auth_creds():
         credentials = {}
-        load_dotenv(".\\src\\config\\.env")
+        load_dotenv(".\\src\\config\\config.ini")
         credentials.update({
             'username': f"{os.getenv("AUTH_USERNAME")}",
             'password': f"{os.getenv("AUTH_PASSWORD")}"

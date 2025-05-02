@@ -11,7 +11,7 @@ from src.utils.prop_reader import PropReader
 def create_token():
     auth_response = RequestsWrapper.auth_request(url=APIConstant.get_auth_url(),
                                                  header=Headers.get_common_header(),
-                                                 payload=PropReader.read_env_file())
+                                                 payload=PropReader.read_auth_creds())
 
     verify_status_code(response=auth_response, expected=200)
     print(auth_response.json())

@@ -20,3 +20,13 @@
 05/01/2025 10:23:22 PM INFO ########### deleting the booking ###########
 05/01/2025 10:23:23 PM INFO ########### running delete booking assertions ###########
 05/01/2025 10:23:24 PM INFO ########### TC-test_end_to_end_booking_flow: test execution started: test execution completed ###########
+05/02/2025 01:21:29 PM INFO ########### TC-test_004_create_booking: test execution started ###########
+05/02/2025 01:21:29 PM INFO ########### new booking creation ###########
+05/02/2025 01:21:30 PM INFO ########### getting the booking details ###########
+05/02/2025 01:21:31 PM INFO ########### running create booking assertions ###########
+05/02/2025 01:21:31 PM INFO ########### updating the booking details ###########
+05/02/2025 01:21:32 PM INFO ########### getting the booking details post updating ###########
+05/02/2025 01:21:32 PM INFO ########### running update booking assertions ###########
+05/02/2025 01:21:32 PM INFO ########### deleting the booking ###########
+05/02/2025 01:21:33 PM INFO ########### running delete booking assertions ###########
+05/02/2025 01:21:34 PM INFO ########### TC-test_end_to_end_booking_flow: test execution started: test execution completed ###########
