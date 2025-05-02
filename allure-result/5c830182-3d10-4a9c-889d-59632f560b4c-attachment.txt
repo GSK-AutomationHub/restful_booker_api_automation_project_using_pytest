@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_create_booking.py:29 ########### test_004_create_booking: test execution started ###########
-[32mINFO    [0m root:test_create_booking.py:52 ########### test_004_create_booking: test execution completed ###########
