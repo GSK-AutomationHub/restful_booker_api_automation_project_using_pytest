@@ -26,6 +26,6 @@ class TestTokenGenerationDDT:
                                                               })
 
         assert verify_status_code(response=auth_response, expected=200)
-        assert verify_response_invalid_token_request(auth_response.json())
+        assert verify_response_invalid_token_request(auth_response.json()['reason'])
 
 

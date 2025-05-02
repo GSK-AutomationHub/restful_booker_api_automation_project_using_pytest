@@ -32,7 +32,7 @@ def verify_response_delete(response):
     return "Created" in response
 
 def verify_response_invalid_token_request(response):
-    return "Bad credentials" in response
+    return  response.__eq__("Bad credentials")
 
 def validate_json_schema(response, schema):
     try:
