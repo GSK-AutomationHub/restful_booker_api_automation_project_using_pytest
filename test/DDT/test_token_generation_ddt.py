@@ -25,7 +25,7 @@ class TestTokenGenerationDDT:
                                                               "password": password
                                                               })
 
-        verify_status_code(response=auth_response, expected=200)
-        verify_response_invalid_token_request(auth_response.json())
+        assert verify_status_code(response=auth_response, expected=200)
+        assert verify_response_invalid_token_request(auth_response.json())
 
 
